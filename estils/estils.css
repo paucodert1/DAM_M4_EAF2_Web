@@ -37,7 +37,7 @@ body{
         align-items: center;
         justify-content: space-between;
         background: transparent;
-        backdrop-filter: blur(px);
+        backdrop-filter: blur(50px);
         padding: 22px 10%;
         border-bottom: 1px solid transparent;
         transition: all .45s ease;
