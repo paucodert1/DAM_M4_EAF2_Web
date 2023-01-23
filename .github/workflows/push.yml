@@ -1,4 +1,4 @@
-name: Deploy de la paginaa
+name: Deploy de la paginaaa
 on:
   pull_request:
   push:
